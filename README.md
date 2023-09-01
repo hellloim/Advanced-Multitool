@@ -5,3 +5,5 @@ This is an advanced Mulitool that i have self coded for my old marketplace i own
 You'll need python downloaded
 You need to launch the install.bat file
 If it dosen't work it's something wrong with your PIP
+
+#Discord farmoronlyfans

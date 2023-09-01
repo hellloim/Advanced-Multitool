@@ -6,4 +6,4 @@ You'll need python downloaded
 You need to launch the install.bat file
 If it dosen't work it's something wrong with your PIP
 
-#Discord farmoronlyfans
+# Discord farmoronlyfans
